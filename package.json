@@ -1,7 +1,7 @@
 {
     "name": "exmpty-react-example",
     "version": "0.0.0",
-    "homepage": "/",
+    "homepage": "/store-planning",
     "private": true,
     "resolutions": {
         "css-animation": "1.5.0"

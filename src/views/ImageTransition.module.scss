@@ -1,0 +1,40 @@
+$duration: 5s;
+
+@keyframes overlay-animation {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 100;
+    }
+}
+
+@keyframes image-animation {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 100;
+    }
+    50% {
+        opacity: 100;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+#image {
+    animation: overlay-animation forwards;
+    animation-name: image-animation;
+    animation-duration: $duration;
+}
+
+#overlay {
+    animation: overlay-animation forwards;
+
+    animation-duration: $duration;
+}

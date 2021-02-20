@@ -10,7 +10,7 @@ export default function Store() {
 
     return (
         <Card className="w-screen h-screen flex flex-col lg:w-11/12 m-auto">
-            <Title className="flex " level="h2">
+            <Title className="flex " level="h1">
                 Din butik
             </Title>
 

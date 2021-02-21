@@ -2,7 +2,7 @@ import { classnames } from 'tailwindcss-classnames';
 import { OnChangeProps } from './Props';
 import React from 'react';
 
-type OnChangeEvent = React.ChangeEvent<HTMLInputElement>;
+export type OnChangeEvent = React.ChangeEvent<HTMLInputElement>;
 interface TextFieldInput extends OnChangeProps<OnChangeEvent> {
     placeholder?: string;
     defaultValue?: string;

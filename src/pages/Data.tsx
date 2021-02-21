@@ -27,7 +27,7 @@ export default function Data() {
                     image={image}
                     svg={overlay}
                     onComplete={() => {
-                        history.push(Navigator.build({ path: '/store' }));
+                        history.push(Navigator.build({ path: '/area-select' }));
                     }}
                 />
 
@@ -35,7 +35,9 @@ export default function Data() {
                     <Button
                         className="float-right"
                         onClick={() => {
-                            history.push(Navigator.build({ path: '/store' }));
+                            history.push(
+                                Navigator.build({ path: '/area-select' }),
+                            );
                         }}
                     >
                         Gå vidare

@@ -3,14 +3,19 @@
  */
 
 type LoginLinkConfig = GenericLinkConfig<'/login', null>;
-type StoreConfig = GenericLinkConfig<'/store', null>;
+type StoreConfig = GenericLinkConfig<'/area-select', null>;
+type AddTimeConfig = GenericLinkConfig<'/add-time', null>;
 type DataLinkConfig = GenericLinkConfig<
     '/data',
     {
         username: string;
     }
 >;
-type LinkConfig = LoginLinkConfig | DataLinkConfig | StoreConfig;
+type LinkConfig =
+    | LoginLinkConfig
+    | DataLinkConfig
+    | StoreConfig
+    | AddTimeConfig;
 
 export class Navigator {
     static build(config: LinkConfig) {

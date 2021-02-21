@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://erikschmutz.github.io/store-planning/static/css/main.f9a49e2f.chunk.css",
-    "main.js": "https://erikschmutz.github.io/store-planning/static/js/main.5d6d84c1.chunk.js",
-    "main.js.map": "https://erikschmutz.github.io/store-planning/static/js/main.5d6d84c1.chunk.js.map",
+    "main.js": "https://erikschmutz.github.io/store-planning/static/js/main.56332f2b.chunk.js",
+    "main.js.map": "https://erikschmutz.github.io/store-planning/static/js/main.56332f2b.chunk.js.map",
     "runtime-main.js": "https://erikschmutz.github.io/store-planning/static/js/runtime-main.3e446535.js",
     "runtime-main.js.map": "https://erikschmutz.github.io/store-planning/static/js/runtime-main.3e446535.js.map",
     "static/css/2.ddecaa5b.chunk.css": "https://erikschmutz.github.io/store-planning/static/css/2.ddecaa5b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ddecaa5b.chunk.css",
     "static/js/2.dd05b42f.chunk.js",
     "static/css/main.f9a49e2f.chunk.css",
-    "static/js/main.5d6d84c1.chunk.js"
+    "static/js/main.56332f2b.chunk.js"
   ]
 }

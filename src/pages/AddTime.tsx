@@ -60,6 +60,12 @@ export default function AddTime() {
                         className="mx-5"
                     >
                         <Typography>{v.name}</Typography>
+                        {v.startWeek && (
+                            <Typography>Start vecka {v.startWeek}</Typography>
+                        )}
+                        {v.endWeek && (
+                            <Typography>Slut vecka {v.endWeek}</Typography>
+                        )}
                     </Card>
                 ))}
             </div>

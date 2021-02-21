@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/store-planning/static/css/main.8d96c3a1.chunk.css",
-    "main.js": "/store-planning/static/js/main.8bfd38f5.chunk.js",
-    "main.js.map": "/store-planning/static/js/main.8bfd38f5.chunk.js.map",
-    "runtime-main.js": "/store-planning/static/js/runtime-main.27e72070.js",
-    "runtime-main.js.map": "/store-planning/static/js/runtime-main.27e72070.js.map",
-    "static/css/2.ddecaa5b.chunk.css": "/store-planning/static/css/2.ddecaa5b.chunk.css",
-    "static/js/2.72c56725.chunk.js": "/store-planning/static/js/2.72c56725.chunk.js",
-    "static/js/2.72c56725.chunk.js.map": "/store-planning/static/js/2.72c56725.chunk.js.map",
-    "index.html": "/store-planning/index.html",
-    "static/css/2.ddecaa5b.chunk.css.map": "/store-planning/static/css/2.ddecaa5b.chunk.css.map",
-    "static/css/main.8d96c3a1.chunk.css.map": "/store-planning/static/css/main.8d96c3a1.chunk.css.map",
-    "static/js/2.72c56725.chunk.js.LICENSE.txt": "/store-planning/static/js/2.72c56725.chunk.js.LICENSE.txt",
-    "static/media/image.bc958827.png": "/store-planning/static/media/image.bc958827.png",
-    "static/media/items.03a6460a.svg": "/store-planning/static/media/items.03a6460a.svg"
+    "main.css": "https://erikschmutz.github.io/store-planning/static/css/main.f9a49e2f.chunk.css",
+    "main.js": "https://erikschmutz.github.io/store-planning/static/js/main.5d6d84c1.chunk.js",
+    "main.js.map": "https://erikschmutz.github.io/store-planning/static/js/main.5d6d84c1.chunk.js.map",
+    "runtime-main.js": "https://erikschmutz.github.io/store-planning/static/js/runtime-main.3e446535.js",
+    "runtime-main.js.map": "https://erikschmutz.github.io/store-planning/static/js/runtime-main.3e446535.js.map",
+    "static/css/2.ddecaa5b.chunk.css": "https://erikschmutz.github.io/store-planning/static/css/2.ddecaa5b.chunk.css",
+    "static/js/2.dd05b42f.chunk.js": "https://erikschmutz.github.io/store-planning/static/js/2.dd05b42f.chunk.js",
+    "static/js/2.dd05b42f.chunk.js.map": "https://erikschmutz.github.io/store-planning/static/js/2.dd05b42f.chunk.js.map",
+    "index.html": "https://erikschmutz.github.io/store-planning/index.html",
+    "static/css/2.ddecaa5b.chunk.css.map": "https://erikschmutz.github.io/store-planning/static/css/2.ddecaa5b.chunk.css.map",
+    "static/css/main.f9a49e2f.chunk.css.map": "https://erikschmutz.github.io/store-planning/static/css/main.f9a49e2f.chunk.css.map",
+    "static/js/2.dd05b42f.chunk.js.LICENSE.txt": "https://erikschmutz.github.io/store-planning/static/js/2.dd05b42f.chunk.js.LICENSE.txt",
+    "static/media/image.bc958827.png": "https://erikschmutz.github.io/store-planning/static/media/image.bc958827.png",
+    "static/media/items.03a6460a.svg": "https://erikschmutz.github.io/store-planning/static/media/items.03a6460a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.27e72070.js",
+    "static/js/runtime-main.3e446535.js",
     "static/css/2.ddecaa5b.chunk.css",
-    "static/js/2.72c56725.chunk.js",
-    "static/css/main.8d96c3a1.chunk.css",
-    "static/js/main.8bfd38f5.chunk.js"
+    "static/js/2.dd05b42f.chunk.js",
+    "static/css/main.f9a49e2f.chunk.css",
+    "static/js/main.5d6d84c1.chunk.js"
   ]
 }
